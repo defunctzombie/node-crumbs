@@ -1,4 +1,4 @@
-# crumbs
+# crumbs [![Build Status](https://secure.travis-ci.org/shtylman/node-crumbs.png?branch=master)](http://travis-ci.org/shtylman/node-crumbs) #
 
 Crumbs is a basic cookie parser and serializer. It doesn't make assumptions about how you are going to deal with your cookies. It basically just provides a way to read and write the HTTP cookie headers.
 
