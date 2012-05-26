@@ -7,6 +7,11 @@
     "type": "git",
     "url": "git://github.com/shtylman/node-crumbs.git"
   },
+  "keywords": [
+    "cookie",
+    "cookies",
+    "crumbs"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "mocha"
